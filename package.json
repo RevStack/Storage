@@ -1,0 +1,19 @@
+{
+  "name": "RevStack.Storage",
+  "version": "1.0.0",
+  "description": "File Management solution integrating 3rd party storage providers such as S3 and dropbox.",
+  "main": "RevStack.Storage.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/Storage.git"
+  },
+  "author": "D. Sheets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStack/Storage/issues"
+  },
+  "homepage": "https://github.com/RevStack/Storage"
+}
